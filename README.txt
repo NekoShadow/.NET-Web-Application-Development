@@ -1,9 +1,9 @@
-主要文件说明
+Description of documents 
 
-1，“系统说明文档.docx”：主要是对系统的分析（可行性分析、需求分析、系统框架描述、数据字典设计等）、设计（概念结构设计、逻辑结构设计、范式校验、物理设计等）与实现（数据库建立、数据样本、开发环境于编程环境、系统操作说明等）的记录与描述。
+1, "System Documentation.docx": Major Analysis of the System (feasibility analysis, demand analysis, system framework description, data dictionary design, etc.), design (conceptual structure design, logic structure design, paradigm verification, physical design, etc.) Records and descriptions of implementation (database creation, data samples, development environment and programming environment, system operation instructions, etc.).
 
-2，“Web-final homework”文件夹：项目源代码。其中，SQL数据库文件位于"Web-final homework/SportsStore.WebUI/App_Data"目录下。
+2, "Web-final" folder: project source code. Among them, the SQL database file is located in the "Web-final/SportsStore.WebUI/App_Data" directory.
 
-3，“数据库生成代码.txt”：生成数据库的SQL语句。
+3, "sql statements to build the database.txt": SQL statements to create the database.
 
-4，“运行环境.txt”：记录了操作系统、系统内存、编程环境/开发工具、数据库版本以及开发语言。
+4, "Settings.txt": the operating system, memory, programming environment / development tools, database versions, and development languages.
