@@ -1,0 +1,41 @@
+﻿@model IEnumerable<SportsStore.Domain.Entities.User>
+@{
+    ViewBag.Title = "Admin: All Products";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>用户列表</h3>
+    </div>
+    
+        @using (Html.BeginForm("ViewMyself", "User", FormMethod.Get))
+        {
+
+    <p>
+        名字: @Html.TextBox("UserName")
+        <input type="submit" value="查询" />
+    </p>
+}
+    <div class="panel-body">
+        <table class="table table-striped" table-condensed table-bordered>
+            <tr>
+                <th class="text-right">UserID</th>
+                <th class="text-right">Name</th>
+                
+            </tr>
+            @foreach (var item in Model)
+            {
+                if (@item.ToString() == @Session["CurrentUser"].ToString()) {
+                <tr>
+                    <td class="text-right">@item.UserID</td>
+                    <td class="text-right">@item.Name</td>
+                    
+                </tr>
+                }
+            }
+
+        </table>
+    </div>
+
+</div>

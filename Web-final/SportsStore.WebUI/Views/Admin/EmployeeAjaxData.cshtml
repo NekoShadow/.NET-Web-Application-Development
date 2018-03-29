@@ -1,0 +1,11 @@
+﻿@using SportsStore.Domain.Entities
+@model IEnumerable<Employee>
+@foreach (Employee p in Model)
+{
+    <tr>
+        <td class="text-left">@p.EmployeeID</td>
+        <td class="text-left">@p.Name</td>
+        <td class="text-left">@p.Province</td>
+        <td class="text-left">@p.Role</td>
+    </tr>
+}

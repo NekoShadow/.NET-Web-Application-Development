@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SportsStore.WebUI.Models.OrderAndItem>
+
+@{
+
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+<h2>按用户查看订单明细</h2>
+@using (Html.BeginForm("ViewOrderItems", "Admin", FormMethod.Get))
+{
+    <p>
+        用户ID:@Html.TextBox("UserID")
+        订单: @Html.TextBox("OrderID")
+        产品ID: @Html.TextBox("ProductID")
+        <input type="submit" value="搜索" /><br />
+        数量: @Html.TextBox("low") 到 @Html.TextBox("high")
+
+    </p>
+}
+<table class="table">
+    <tr>
+        <th class="text-left">顾客ID</th>
+        <th class="text-left">订单号</th>
+        <th class="text-left">商品ID</th>
+        <th class="text-left">数量</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+        </tr>
+    }
+</table>

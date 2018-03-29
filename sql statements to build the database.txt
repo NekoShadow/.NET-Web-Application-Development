@@ -1,0 +1,42 @@
+CREATE DATABASE SportsStore;
+
+CREATE TABLE [dbo].[Users] (
+    [UserID]          INT            IDENTITY (1, 1) NOT NULL,
+    [Name]            NVARCHAR (500) NOT NULL,
+    [Password]        NVARCHAR (MAX) NOT NULL,
+    [ConfirmPassword] NVARCHAR (MAX) NULL,
+    [Email]           NVARCHAR (MAX) NOT NULL,
+    [PhoneNumber]     NVARCHAR (MAX) NOT NULL,
+    CONSTRAINT [PK_dbo.Users] PRIMARY KEY CLUSTERED ([UserID] ASC),
+    UNIQUE NONCLUSTERED ([Name] ASC)
+);
+
+CREATE TABLE [dbo].[Products] (
+    [ProductID]     INT             IDENTITY (1, 1) NOT NULL,
+    [Name]          NVARCHAR (100)  NOT NULL,
+    [Description]   NVARCHAR (500)  NOT NULL,
+    [Category]      NVARCHAR (50)   NOT NULL,
+    [Price]         DECIMAL (16, 2) NOT NULL,
+    [ImageData]     VARBINARY (MAX) NULL,
+    [ImageMimeType] VARCHAR (50)    NULL,
+    PRIMARY KEY CLUSTERED ([ProductID] ASC),
+    UNIQUE NONCLUSTERED ([Name] ASC)
+);
+
+CREATE TABLE [dbo].[Orders] (
+    [OrderID]    INT             IDENTITY (1, 1) NOT NULL,
+    [UserID]     INT             NOT NULL,
+    [Address]    NVARCHAR (MAX)  NOT NULL,
+    [TotalPrice] DECIMAL (16, 2) NOT NULL,
+    PRIMARY KEY CLUSTERED ([OrderID] ASC), 
+    CONSTRAINT [FK_Orders_ToUsers] FOREIGN KEY (UserID) REFERENCES [Users]([UserID])
+);
+
+CREATE TABLE [dbo].[OrderItems] (
+    [OrderID]   INT NOT NULL,
+    [ProductID] INT NOT NULL,
+    [Quantity]  INT NOT NULL,
+    CONSTRAINT [PK_OrderItems] PRIMARY KEY CLUSTERED ([OrderID] ASC, [ProductID] ASC),
+    CONSTRAINT [FK_OrderItems_ToOrders] FOREIGN KEY ([OrderID]) REFERENCES [dbo].[Orders] ([OrderID]),
+    CONSTRAINT [FK_OrderItems_ToProducts] FOREIGN KEY ([ProductID]) REFERENCES [dbo].[Products] ([ProductID])
+);

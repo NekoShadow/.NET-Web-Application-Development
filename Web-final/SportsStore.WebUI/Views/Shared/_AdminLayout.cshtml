@@ -1,0 +1,44 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/ErrorStyles.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.9.1.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery-2.2.3.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <title></title>
+</head>
+<body>
+    <div>
+        @if (TempData["message"] != null)
+        {
+            <div class="alert alert-success">@TempData["message"]</div>
+        }
+        @RenderBody()
+    </div>
+
+    <div class="panel-footer">
+        @Html.ActionLink("添加商品", "Create", null,
+    new { @class = "btn btn-default" })
+        @Html.ActionLink("查看商品列表", "Index", null,
+    new { @class = "btn btn-default" })
+        @Html.ActionLink("查看顾客列表", "ViewUser", null,
+    new { @class = "btn btn-default" })
+        @Html.ActionLink("查看订单记录", "ViewOrder", null,
+    new { @class = "btn btn-default" })
+        @Html.ActionLink("按顾客查看订单", "ViewOrderItems", null,
+    new { @class = "btn btn-default" })
+        @Html.ActionLink("Ajax", "EmployeeAjax", null,
+    new { @class = "btn btn-default" })
+        @Html.ActionLink("返回登录界面", "Login", "User", null,
+     new { @class = "btn btn-default" })
+    </div>
+</body>
+</html>

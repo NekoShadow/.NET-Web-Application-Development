@@ -1,0 +1,5 @@
+Operating System: Window 10, 64 bits
+Memory: 8.00 GB
+Environment & Development Tools :Microsoft Visual Studio 2015 Community
+Database Version: Microsoft SQL Server 2014 Express LocalDB
+Languages: C#, HTML, CSS, JavaScript

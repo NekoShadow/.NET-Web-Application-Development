@@ -1,0 +1,31 @@
+﻿@using SportsStore.Domain.Entities
+@model string
+@{
+    ViewBag.Title = "Ajax";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+    AjaxOptions ajaxOpts = new AjaxOptions
+    {
+        UpdateTargetId = "tableBody"
+    };
+}
+<h2>Ajax</h2>
+@using (Ajax.BeginForm("EmployeeAjaxData", ajaxOpts))
+{
+    <div>
+        @Html.DropDownList("selectedRole", new SelectList(
+new[] { "All" }.Concat(Enum.GetNames(typeof(Role)))))
+        <button type="submit">搜索</button>
+    </div>
+}
+<div class="panel-body">
+    <table class="table table-striped" table-condensed table-bordered>
+        <thead><tr>
+            <th class="text-left">员工ID</th>
+            <th class="text-left">姓名</th>
+            <th class="text-left">省份</th>
+            <th class="text-left">职位</th>
+            </tr></thead>
+        <tbody id="tableBody">
+            @Html.Action("EmployeeAjaxData", new { selectedRole = Model })
+        </tbody>
+    </table>

@@ -1,0 +1,462 @@
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\ApplicationInsights.config
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Moq.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Moq.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.pdb
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.xml
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.resources.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\大三下学期\web程序设计\homework_Damon\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Mvc.resources.dll
+J:\SportsStore\SportsStore.WebUI\bin\ApplicationInsights.config
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+J:\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+J:\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+J:\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+J:\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+J:\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+J:\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+J:\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.dll
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+J:\SportsStore\SportsStore.WebUI\bin\Moq.dll
+J:\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+J:\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+J:\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+J:\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+J:\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.dll
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+J:\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
+J:\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
+J:\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+J:\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.pdb
+J:\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+J:\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+J:\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\SportsStore\SportsStore.WebUI\bin\Moq.xml
+J:\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+J:\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+J:\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+J:\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+J:\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+J:\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+J:\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.xml
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+J:\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+J:\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Razor.resources.dll
+J:\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.resources.dll
+J:\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+J:\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+J:\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Helpers.resources.dll
+J:\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Mvc.resources.dll
+J:\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+J:\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+J:\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\ApplicationInsights.config
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\csc.exe
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\vbc.exe
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\EntityFramework.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.AI.Web.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Moq.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Ninject.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\SportsStore.Domain.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Helpers.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Mvc.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Optimization.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Razor.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Webpages.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\WebActivator.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\WebGrease.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Antlr3.Runtime.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\EntityFramework.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Moq.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Ninject.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Ninject.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Optimization.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Razor.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Webpages.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Helpers.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\System.Web.Mvc.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\SportsStore1.0\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\ApplicationInsights.config
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\csc.exe
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\vbc.exe
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\EntityFramework.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.Web.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Moq.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\SportsStore.Domain.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Helpers.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Mvc.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Optimization.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Razor.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\WebActivator.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\WebGrease.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Antlr3.Runtime.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\EntityFramework.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Moq.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Optimization.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Razor.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Helpers.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Mvc.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\文件夹2\DB-final homework\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\ApplicationInsights.config
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\csc.exe
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\vbc.exe
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\EntityFramework.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.Web.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Moq.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\SportsStore.Domain.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Helpers.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Mvc.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Optimization.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Razor.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\WebActivator.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\WebGrease.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Antlr3.Runtime.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\EntityFramework.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Moq.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Optimization.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Razor.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Helpers.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\System.Web.Mvc.xml
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+E:\大三下学期\数据库系统原理\大作业\大作业实现\张剑富 3130104101\文件夹2\DB-final homework\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\ApplicationInsights.config
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\csc.exe
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\vbc.exe
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\EntityFramework.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.AI.Web.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Moq.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Ninject.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\SportsStore.Domain.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Helpers.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Mvc.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Optimization.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Razor.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Webpages.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\WebActivator.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\WebGrease.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Antlr3.Runtime.pdb
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\EntityFramework.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Moq.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Ninject.pdb
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Ninject.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Optimization.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Razor.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Webpages.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Helpers.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\System.Web.Mvc.xml
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.resources.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+E:\大三下学期\web程序设计\大作业\Web程序设计大作业\文件夹2\Web-final homework\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
